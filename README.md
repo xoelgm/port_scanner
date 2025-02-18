@@ -10,9 +10,11 @@ A simple and efficient Bash script to check open ports on a given IP address or 
 ## Usage:
 ```bash
 ./port_scanner.sh <ip-address>
-
+```
 ## Example:
+```bash
 ./port_scanner.sh 192.168.1.1
+```
 
 ## Requirements:
 - Bash shell
