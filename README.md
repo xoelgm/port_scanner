@@ -8,7 +8,7 @@ A simple and efficient Bash script to check open ports on a given IP address or 
 - Fast execution using parallel checks
   
 # Usage:
-./port_scanner.sh <ip-address>
+'''./port_scanner.sh <ip-address>'''
 
 # Example:
 ./port_scanner.sh 192.168.1.1
